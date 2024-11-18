@@ -36,13 +36,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by the need for efficient melanoma detection.
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was based on [Convolutional Neural Networks](https://learn.upgrad.com/course/5800/segment/55852/333576/1009197/5042300).
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@RavishankarDuMCA10] - feel free to contact me!
 
 
 <!-- Optional -->
