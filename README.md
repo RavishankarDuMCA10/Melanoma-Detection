@@ -57,10 +57,13 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+- tensorflow - version 2.16.2
+- matplotlib - version 3.9.2
+- numpy - version 1.26.4
+- pandas - version 2.2.3
+- keras - version 3.6.0
+- PIL - version 11.0.0
+- Augmentor - version 0.2.12
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
