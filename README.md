@@ -11,10 +11,39 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+### Algorithm Used
+
+Convolutional Neural Network
+
+### Dataset Information
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+
+The data set contains the following diseases:
+
+- Actinic keratosis
+- Basal cell carcinoma
+- Dermatofibroma
+- Melanoma
+- Nevus
+- Pigmented benign keratosis
+- Seborrheic keratosis
+- Squamous cell carcinoma
+- Vascular lesion
+
+### Steps involved
+- Importing all the important libraries
+- Data Loading and Create datasets
+- Visualize one instance of all the nine classes present in the dataset
+- Baseline Model Building
+- Training the Model and Visualizing training results
+- Building an augmented model
+- Training the augmented model and Visualizing training results
+- Checking and rectifing Class Imbalance with augmentor
+- Building the final model
+- Training the final model and Visualizing training results
+- Verifying the model
+
+### Results
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
