@@ -30,7 +30,14 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
-### Steps involved
+<img width="625" alt="Screenshot 2024-11-18 at 11 14 24 PM" src="https://github.com/user-attachments/assets/dc8a2b47-47cf-46a7-958e-18f4b38a4afe">
+
+### Sample Images from Dataset
+
+<img width="736" alt="Screenshot 2024-11-18 at 11 12 05 PM" src="https://github.com/user-attachments/assets/921483ce-ba38-450f-a5ee-45238b7f423d">
+
+
+## Steps involved
 - Importing all the important libraries
 - Data Loading and Create datasets
 - Visualize one instance of all the nine classes present in the dataset
@@ -43,7 +50,25 @@ The data set contains the following diseases:
 - Training the final model and Visualizing training results
 - Verifying the model
 
-### Results
+## Results
+
+### Baseline Model
+Accuracy and loss charts for Baseline Model:
+
+<img width="710" alt="Screenshot 2024-11-18 at 11 12 33 PM" src="https://github.com/user-attachments/assets/5a24f466-28ad-47d7-a743-436dc4acb543">
+
+### Augmented Model
+
+Accuracy and loss charts for Augmented Model:
+
+<img width="737" alt="Screenshot 2024-11-18 at 11 14 12 PM" src="https://github.com/user-attachments/assets/e177d9e0-5bbb-41b6-8694-332e6658bb6b">
+
+### Final Model
+
+Accuracy and loss charts for Augmented Model:
+
+<img width="724" alt="Screenshot 2024-11-18 at 11 14 45 PM" src="https://github.com/user-attachments/assets/3c4f0b26-9937-474c-a89f-5ea15ad88609">
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
