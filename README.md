@@ -113,7 +113,9 @@ Accuracy and loss charts for Augmented Model:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by the need for efficient melanoma detection.
-- References if any...
+- References:
+  https://www.isic-archive.com/
+  https://challenge2020.isic-archive.com/
 - This project was based on [Convolutional Neural Networks](https://learn.upgrad.com/course/5800/segment/55852/333576/1009197/5042300).
 
 ## Contact
