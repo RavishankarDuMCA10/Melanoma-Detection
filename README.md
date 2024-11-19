@@ -53,17 +53,33 @@ The data set contains the following diseases:
 ## Results
 
 ### Baseline Model
+
+#### Baseline Model Architecture
+
+<img width="603" alt="Screenshot 2024-11-18 at 11 12 19 PM" src="https://github.com/user-attachments/assets/ca119f98-787f-4e7f-b21f-66493e1e7a7f">
+
+
 Accuracy and loss charts for Baseline Model:
 
 <img width="710" alt="Screenshot 2024-11-18 at 11 12 33 PM" src="https://github.com/user-attachments/assets/5a24f466-28ad-47d7-a743-436dc4acb543">
 
 ### Augmented Model
 
+#### Augmented Model Architecture
+
+<img width="293" alt="Screenshot 2024-11-19 at 12 19 41 PM" src="https://github.com/user-attachments/assets/12809b10-2a0e-4fc6-8f25-21ac14d4a271">
+
+
 Accuracy and loss charts for Augmented Model:
 
 <img width="737" alt="Screenshot 2024-11-18 at 11 14 12 PM" src="https://github.com/user-attachments/assets/e177d9e0-5bbb-41b6-8694-332e6658bb6b">
 
 ### Final Model
+
+#### Final Model Architecture
+
+<img width="318" alt="Screenshot 2024-11-19 at 12 20 58 PM" src="https://github.com/user-attachments/assets/d370be67-2ca4-44c8-85a2-75846b63d12f">
+
 
 Accuracy and loss charts for Augmented Model:
 
