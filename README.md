@@ -73,10 +73,13 @@ Accuracy and loss charts for Augmented Model:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- **Improved Performance:** Training accuracy improved significantly, reaching 93.61% by the end of training. Validation accuracy also improved to 85.33%, with validation loss steadily decreasing.
+
+- **Addressing Underfitting:** Early epochs (1–10) showed underfitting, as both training and validation accuracies were low. However, as training progressed, the model learned meaningful patterns, reducing underfitting.
+
+- **Overfitting Trends:** Overfitting appears minimal since the validation accuracy remains close to the training accuracy, and the validation loss follows a consistent downward trend.
+
+- **Class Rebalancing Impact:** After class rebalancing (weighted loss, data augmentation, or oversampling) applied, it helped to reduce biases in predictions, resulting in better generalization across classes, as evidenced by consistent validation accuracy improvement.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
